@@ -1,8 +1,8 @@
 Electric Imp Shield
 ===================
 
-[![Part Name](URL for picture of part)
-*Part Name (SKU)*](URL for product on Sparkfun.com)
+[![Electric Imp Shield](https://cdn.sparkfun.com//assets/parts/7/1/8/4/11401-01.jpg)
+*Electric Imp Shield (DEV-11401)*](https://www.sparkfun.com/products/11401)
 
 The Electric Imp shield allows you to connect your Arduino to the Imp Cloud Service and connect to HTTP APIs. 
 
